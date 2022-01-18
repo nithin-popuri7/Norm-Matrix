@@ -33,7 +33,7 @@ print(norm_of_matrix)
 
 ```
 ## Sample Input and Output:
-![githublogo](EX 07.png)
+![githublogo](7.png)
 
 ## Result
 Thus the program for 2-norm of a matrix is written and verified.
